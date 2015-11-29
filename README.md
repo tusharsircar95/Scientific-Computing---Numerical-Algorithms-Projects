@@ -1,0 +1,2 @@
+# Scientific-Computing---Numerical-Algorithms-Projects
+Algorithms to solve linear equations, PDE's and ODE's, iterpolation etc along with Iterative Methods for Non-linear equations, Polynomial Interpolation (including Cubic Interpolation, Newtons Forward &amp; Backward Difference schemes), IVPs for ODEs, Finite Difference Schemes for PDEs and IVPs, Gauss-Seidel and SOR methods along with their stability analysis.
